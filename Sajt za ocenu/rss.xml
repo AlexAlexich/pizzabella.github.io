@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Pizzabella je objavila novu pizzu!</title>
+			<description>Nova pizza je stigla i kod nas
+			</description>
+			<link>
+				http://nesto.ne/VrstePizza.html
+			</link>
+		</item>
+		<item>
+			<title>Dodat je novi broj telefona</title>
+			<description>Pizzabella je dobila novi broj!
+			</description>
+			<link>
+				http://nesto.ne/kontakt.html
+						</link>
+		</item>
+	</channel>
+</rss>
