@@ -271,3 +271,6 @@ input{
 .pizzaSlika{
 	border-radius: 15px;
 }
+.pizzaSlika:hover{
+	width: 120%;
+}
