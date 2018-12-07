@@ -144,11 +144,10 @@ nav ul li a:hover{
 }
 /*Kontakt*/
 #kontaktMain {
+	margin-top:70px;
 	min-height: 1000px;
-	padding: 20px;
-	margin-top: 70px;
-	margin: 70px;
-	padding-bottom: 37%;
+	padding-bottom:40%;
+	
 }
 #kontakti h1, h2, p{
 	margin: 5px auto;
