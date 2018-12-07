@@ -273,4 +273,5 @@ input{
 }
 .pizzaSlika:hover{
 	width: 120%;
+	 transform: rotate(20deg);
 }
