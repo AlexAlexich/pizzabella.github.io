@@ -272,6 +272,6 @@ input{
 	border-radius: 15px;
 }
 .figPizza:hover{
-	width: 150%;
+	width: 130%;
 	transform: rotate(20deg);
 }
